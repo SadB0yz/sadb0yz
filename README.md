@@ -6,7 +6,7 @@
 <br />
 <br />
 
-Olá, me chamo **Pedro**, ** Aspirante à Linguagem da Computação **  Sou apenas um garoto de 15 anos que sonha se tornar um grande **Developer** em um futuro próximo  :rocket: 
+Olá, me chamo **Pedro**, Aspirante à Linguagem da Computação **  Sou apenas um garoto de 15 anos que sonha se tornar um grande **Developer** em um futuro próximo  :rocket: 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
