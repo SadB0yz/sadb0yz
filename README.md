@@ -32,5 +32,5 @@ Olá, me chamo **Pedro**, ** Aspirante à Linguagem da Computação **  Sou apen
 <br />
 <br />
 
-![SadB0yz github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true)
+![SadB0yz github stats](https://github-readme-stats.vercel.app/api?username=SadB0yz&show_icons=true&hide_border=true)
 
